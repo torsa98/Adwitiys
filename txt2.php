@@ -1,0 +1,6 @@
+<?php
+/* Author: Adwitiya
+Dare:25/07/20*/
+//Uses echo language construct to output the text "hello world."to the browser.
+echo 'hello world.';
+?>

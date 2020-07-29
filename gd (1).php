@@ -1,0 +1,4 @@
+<?php
+anthing?anything.com
+
+?>
